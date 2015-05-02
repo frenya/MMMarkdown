@@ -1,4 +1,11 @@
 # MMMarkdown Release Notes
+## 0.4.3
+ - #60: UnderscoresInWords should only affect underscores
+
+## 0.4.2
+ - #51: Fenced code blocks shouldn't allow non-whitespace characters after trailing delimiter
+ - #54: Improve handling of of language names in fenced code blocks
+ - #57: Fix handling of images inside links
 
 ## 0.4.1
 Fix an exception when whitespace preceded what would otherwise be a header ([#47](https://github.com/mdiep/MMMarkdown/issues/47)).
